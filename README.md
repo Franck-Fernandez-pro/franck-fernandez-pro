@@ -36,18 +36,15 @@
 <br />
 <br />
 
----
 
-### 📕 Recommended books
+## 📕 Recommended books
 
 - Deep Work - *Cal Newport*
 - La semaine de 4 heures - *Timothy Ferriss*
 - L’art subtil de s’en foutre - *Mark Manson*
 
-
----
-
 <br />
+
 <img align="left" alt="Franck Github Stats" src="https://github-readme-stats.vercel.app/api?username=franck-fernandez-pro&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 [website]: franck-fernandez.com
