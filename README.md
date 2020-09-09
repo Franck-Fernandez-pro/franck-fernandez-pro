@@ -49,6 +49,6 @@
 <img align="left" alt="Franck Github Stats" src="https://github-readme-stats.vercel.app/api?username=franck-fernandez-pro&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 [website]: franck-fernandez.com
-[twitter]: https://twitter.com/_Akela_15
+[twitter]: https://twitter.com/Akela_FR
 [linkedin]: https://www.linkedin.com/in/franck-fernandez-31b393161/
 [SkewerLab]: https://skewerlab.com/
