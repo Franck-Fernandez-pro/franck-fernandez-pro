@@ -44,6 +44,7 @@
 - La semaine de 4 heures - *Timothy Ferriss*
 - L’art subtil de s’en foutre - *Mark Manson*
 - Tout sur l'économie (ou presque) - *Gilles Mitteau*
+- Les Barbares - *Alessandro Baricco*
 
 <br />
 
