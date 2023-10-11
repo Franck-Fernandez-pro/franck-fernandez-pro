@@ -3,7 +3,7 @@
 ## I'm a Web Developer
 
 - 🚀 Work every day with React
-- 🌱 I’m currently learning Gatsby/Next/Redwood
+- 🌱 I’m currently learning NextJS/NestJS
 - 👀 Keep an eye on JAM stack
 
 ## Connect with me
